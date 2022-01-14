@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T16:10:41.907Z" agent="5.0 (X11)" etag="_QmXhMCttx9nL9jLvfNo" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T16:13:04.496Z" agent="5.0 (X11)" etag="KSmrXcqNRY_PuTNoO_fl" version="14.8.4" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1383" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -78,10 +78,16 @@
           <mxGeometry x="1165" y="199" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="6nPlPKnWwlBXfayI5A1S-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Analytics-128.png;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1166" y="350" width="88" height="88" as="geometry" />
+          <mxGeometry x="1140" y="340" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="6nPlPKnWwlBXfayI5A1S-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="7d933b09d9755ecc-13" target="6nPlPKnWwlBXfayI5A1S-34">
+        <mxCell id="6nPlPKnWwlBXfayI5A1S-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;jumpStyle=gap;sketch=0;dashed=1;" edge="1" parent="1" source="7d933b09d9755ecc-13" target="6nPlPKnWwlBXfayI5A1S-34">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6nPlPKnWwlBXfayI5A1S-39" value="Google Cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="140" width="113" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6nPlPKnWwlBXfayI5A1S-40" value="neo4j local" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="640" y="290" width="98" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
